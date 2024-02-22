@@ -27,3 +27,14 @@ switch("Valor a ser testado"){
 for (var i=0; i<= 10; i++){
     console.log("Número", i);
 }
+
+// While 
+
+var teste = true;
+var constant = 0;
+while (teste == true){
+    cont++
+    console.log("Olá turma", cont);
+    if (cont >= 10 ) teste = false
+}
+
