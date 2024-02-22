@@ -1,5 +1,5 @@
 var nome = "João"; // Scope Global
-nome = "Pedro";
+nome = "Gabriel";
 
 function mudarNome() { 
     
